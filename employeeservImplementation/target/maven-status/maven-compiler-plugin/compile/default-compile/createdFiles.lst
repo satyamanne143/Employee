@@ -1,0 +1,3 @@
+com\paypal\bfs\test\employeeserv\impl\EmployeeResourceImpl.class
+com\paypal\bfs\test\employeeserv\EmployeeservApplication.class
+com\paypal\bfs\test\employeeserv\util\H2JDBCUtils.class
